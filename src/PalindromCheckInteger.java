@@ -15,11 +15,7 @@ public class PalindromCheckInteger {
 		if(b.equals(a))
 			k=true;
 		System.out.println(k);
-		
-		
-		
-		
-		
+	
 	}
 
 }
